@@ -1,0 +1,26 @@
+<person>
+    <sl.no.>23</sl.no.>
+	<name>Jhon Carter</name>
+	<admission_date>
+	    <date>25</date>
+		<moth>12</month>
+		<year>2015</year>
+	</admission_date>
+	
+	<sl.no.>29</sl.no.>
+	<name>Bob Marshal</name>
+	<admission_date>
+	    <date>13</date>
+		<moth>01</month>
+		<year>1999</year>
+	</admission_date>
+	
+	<sl.no.>35</sl.no.>
+	<name>Clark Kent</name>
+	<admission_date>
+	    <date>17</date>
+		<moth>06</month>
+		<year>2005</year>
+	</admission_date>
+  
+</person>
